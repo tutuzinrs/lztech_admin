@@ -211,7 +211,7 @@ function BannerModal({ form, onChange, onClose, onSave }) {
               />
               <small className="muted small">
                 Para uma categoria use <code>/catalogo?cat=ID</code> (carregadores, cabos, fones,
-                peliculas, capas, telas, carcasas, acessorios). Também aceita link externo.
+                peliculas, capas, acessorios). Também aceita link externo.
               </small>
             </label>
 

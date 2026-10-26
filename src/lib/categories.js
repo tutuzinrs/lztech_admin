@@ -4,8 +4,6 @@ export const CATEGORIES = [
   { id: 'fones', label: 'Fones', emoji: '🎧' },
   { id: 'peliculas', label: 'Películas', emoji: '🛡️' },
   { id: 'capas', label: 'Capas', emoji: '📱' },
-  { id: 'telas', label: 'Telas', emoji: '🖥️' },
-  { id: 'carcasas', label: 'Carcaças', emoji: '🧩' },
   { id: 'acessorios', label: 'Acessórios', emoji: '🔧' },
 ]
 
