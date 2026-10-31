@@ -581,8 +581,7 @@ h3 {
   width: 40px;
   height: 40px;
   border-radius: 9px;
-  object-fit: contain;
-  background: var(--surface-2);
+  object-fit: cover;
   flex-shrink: 0;
 }
 
@@ -800,9 +799,7 @@ h3 {
   width: 46px;
   height: 46px;
   border-radius: 10px;
-  object-fit: contain;
-  background: var(--surface-2);
-  padding: 2px;
+  object-fit: cover;
   flex-shrink: 0;
 }
 
@@ -969,9 +966,7 @@ h3 {
   width: 100%;
   aspect-ratio: 1;
   border-radius: var(--radius-sm);
-  object-fit: contain;
-  background: var(--surface-2);
-  padding: 8px;
+  object-fit: cover;
   border: 1px solid var(--line);
 }
 
